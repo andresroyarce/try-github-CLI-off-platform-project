@@ -1,3 +1,6 @@
+import random
+
+#test
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
