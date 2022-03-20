@@ -1,6 +1,6 @@
 import random
 
-#test otro
+#test  issue close
 name = "Joe"
 question = "Will I win the lottery?"
 answer = ""
